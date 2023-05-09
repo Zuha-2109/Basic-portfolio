@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .navbar{
+    background-color: turquoise;
+    text-align: center;
+  }
+  
+  .navbar .links a{
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+  }
+  
+  .about h1, .section h1{
+    text-align: center;
+    margin: 20px;
+    font-size: 40px;
+    color: tomato;
+  }
